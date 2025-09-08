@@ -5,7 +5,7 @@ body {
   background-color: rgb(229, 229, 153);
   font-family:'Courier New', Courier, monospace ; 
   color: rgb(26, 26, 49);
-  background-image: url(/img/background-img.png);
+  background-image: url(img/background-img.png);
   background-size: 100%;
 }
 
@@ -18,7 +18,7 @@ body {
   border: 0.2px solid rgb(210, 190, 72);
   padding: 8px;
   margin: 10px 0px;
-  background-image: url(/img/background_nav.png);
+  background-image: url(img/background_nav.png);
   background-size: 100%;
 }
 
